@@ -108,7 +108,7 @@ html, button, input, select, textarea, .pure-g [class*="pure-u"] {
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
-    background-image: url("images/1.jpg");
+    background-image: url("images/1.png");
     background-color: black;
     color: white;
 }
